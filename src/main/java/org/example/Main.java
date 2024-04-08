@@ -22,5 +22,5 @@ public class Main {
             this.name = name;
             this.lastName = lastName;
         }
-    }
+    }//todo
 }
